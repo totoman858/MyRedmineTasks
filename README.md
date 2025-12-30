@@ -7,3 +7,5 @@ Configuration is easy ; just need to provide redmine project URL and your API Ke
 You will be able to get all your redmine tasks :
 
 <img width="873" height="687" alt="Capture d’écran 2025-12-30 à 17 36 08" src="https://github.com/user-attachments/assets/c78f629c-8349-4d32-b554-39be5aef0266" />
+
+If you hover over a task with the mouse, you will see its description. If you click on it, the browser will open the task
