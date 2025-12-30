@@ -9,3 +9,7 @@ If you hover over a task with the mouse, you will see its description. If you cl
 Configuration is easy ; just need to provide redmine project URL and your API Key
 
 <img width="508" height="572" alt="Capture d’écran 2025-12-30 à 17 38 00" src="https://github.com/user-attachments/assets/8e53b72f-5f25-4c47-8b44-05f83ec864ac" />
+
+Installation : just download the dmg package
+
+Customization : just run build-and-run.sh and you will get a new dmg package 
