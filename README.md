@@ -1,6 +1,6 @@
-MyRedmineTasks is a Mac application (swift UI) that lets you view your current tasks in the Redmine tool
+MyRedmineTasks is a Mac application (swift UI) that lets you view your current Redmine tasks 
 
-You will be able to get all your redmine tasks :
+You will be able to get all your tasks :
 
 <img width="873" height="687" alt="Capture d’écran 2025-12-30 à 17 36 08" src="https://github.com/user-attachments/assets/c78f629c-8349-4d32-b554-39be5aef0266" />
 
